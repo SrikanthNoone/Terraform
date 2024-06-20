@@ -1,3 +1,5 @@
+#This is for creating a VPC, Subnet, internet gateway, route table, Adding subnet to route table, Creating Securitygroup, launching EC2
+
 provider "aws" {
   region = "us-east-1"
 }
